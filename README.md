@@ -24,16 +24,8 @@ Prolonged earphone and headphone use is increasing hearing-related risks across 
 ---
 
 ## 🔹 Dataset Explanation  
-The dataset contains **7,043 customer records** from a telecom company with:  
-- **Demographic data** (gender, age, partner/dependents)  
-- **Account details** (contract type, payment method, tenure)  
-- **Service usage** (internet service, streaming, tech support)  
-- **Billing information** (monthly charges, total charges)  
-- **Churn label** indicating whether the customer left or stayed  
-
-The target variable is:  
-`Churn` → *Yes / No*
-
+Source: Kaggle (https://www.kaggle.com/datasets/adharshinikumar/2025-hearing-wellness-survey)
+The dataset contains 387 respondent records from Indian residents:  
 ---
 
 ## 🔹 Approach Summary  
