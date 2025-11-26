@@ -1,7 +1,7 @@
-# 📊 Survey Analysis – Project README
+# 📊 2025 Hearing Wellness Survey Analysis – Project README
 
 ## 🔹 Problem Statement  
-A telecom company is experiencing a high customer churn rate, resulting in revenue loss and reduced customer lifetime value. The goal of this project is to analyze customer behavior, identify patterns that lead to churn, and propose actionable strategies to reduce churn rates.
+Prolonged earphone and headphone use is increasing hearing-related risks across India, yet many individuals continue to avoid hearing assessments due to low awareness, accessibility challenges, and limited engagement with digital health solutions. The Hearing Wellness Survey 2025 highlights these gaps, revealing the need to better understand public perceptions, habits, and barriers to adopting hearing-care tools.
 
 ---
 
