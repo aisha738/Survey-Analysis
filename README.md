@@ -25,7 +25,20 @@ Prolonged earphone and headphone use is increasing hearing-related risks across 
 
 ## 🔹 Dataset Explanation  
 Source: Kaggle (https://www.kaggle.com/datasets/adharshinikumar/2025-hearing-wellness-survey)
-The dataset contains 387 respondent records from Indian residents:  
+- The dataset contains 387 respondent records from Indian residents:  
+It provides detailed insights into:
+
+🎯 Demographics – Age group distribution of respondents
+
+🎧 Listening Habits – Daily headphone/earphone usage patterns
+
+⚠ Hearing Risks – Incidence of discomfort, ringing, or pain
+
+🚧 Barriers to Hearing Tests – Common reasons people avoid testing
+
+📱 Digital Readiness – Interest in a mobile hearing health app and willingness to pay
+
+💡 Feature Preferences – Desired functions in a hearing test app (e.g., quick tests, doctor consultations, sound personalization)
 ---
 
 ## 🔹 Approach Summary  
