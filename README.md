@@ -37,7 +37,7 @@ Source: Kaggle (https://www.kaggle.com/datasets/adharshinikumar/2025-hearing-wel
 
 📱 Digital Readiness – Interest in a mobile hearing health app and willingness to pay
 
-#### Key Variables in the Dataset
+### Key Variables in the Dataset
 - **Perceived_Hearing_Meaning:** Responses indicate how well they believe they can hear
 - **Hearing_FOMO:** Respondent’s feeling of missing out on experiences due to hearing limitations.
 - **Hearing_Test_Barrier:** Primary reasons preventing respondents from taking hearing tests.
